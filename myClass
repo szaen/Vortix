@@ -3,7 +3,7 @@ package vortix;
 public class myClass {
 
 	public static void main(String[] args) {
-		System.out.println("Hello vvvv world!");
+		System.out.println("Hello vvvv0000 world!");
 
 
 	}
